@@ -9,5 +9,8 @@ int main()
     printf("commit");
 
     printf("commit from yangxinxin.");
+
+    printf("commit from yangxinxin Test.");
+
     return 0;
 }
