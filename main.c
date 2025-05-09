@@ -1,17 +1,19 @@
 #include <stdio.h>
 
-int main() {
-  printf("Hello World!");
-  printf("Hello World!");
-  printf("Hello World!");
+int main()
+{
+    printf("Hello World!");
+    printf("Hello World!");
+    printf("Hello World!");
 
-  printf("commit");
+    printf("commit");
 
-  printf("commit from yangxinxin.");
+    printf("commit from yangxinxin.");
 
-  printf("commit from yangxinxin Test.");
+    printf("commit from yangxinxin Test.");
 
-  printf("zhangli");
+    printf("yangxinxin");
+    printf("zhangli");
 
-  return 0;
+    return 0;
 }
