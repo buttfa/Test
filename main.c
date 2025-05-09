@@ -12,5 +12,7 @@ int main()
 
     printf("commit from yangxinxin Test.");
 
+    printf("yangxinxin");
+
     return 0;
 }
